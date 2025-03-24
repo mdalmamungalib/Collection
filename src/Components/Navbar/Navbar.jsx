@@ -17,9 +17,9 @@ const Navbar = () => {
       ],
     },
     {
-      name: "Card2",
+      name: "Button",
       subMenu: [
-        { name: "Web Development", link: "/web-development" },
+        { name: "Animeted Button", link: "/animetedButton" },
         { name: "Mobile Apps", link: "/mobile-apps" },
       ],
     },
