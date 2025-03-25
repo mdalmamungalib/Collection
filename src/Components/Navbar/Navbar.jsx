@@ -13,7 +13,7 @@ const Navbar = () => {
       name: "Cards",
       subMenu: [
         { name: "Thred Carse Card", link: "/thredCarseCard" },
-        { name: "Mobile Apps", link: "/mobile-apps" },
+        { name: "Anymeted Card", link: "/anymetedCard" },
       ],
     },
     {
