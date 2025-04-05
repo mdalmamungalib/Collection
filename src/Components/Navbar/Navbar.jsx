@@ -24,10 +24,10 @@ const Navbar = () => {
       ],
     },
     {
-      name: "Card3",
+      name: "Slider",
       subMenu: [
-        { name: "Web Development", link: "/web-development" },
-        { name: "Mobile Apps", link: "/mobile-apps" },
+        { name: "Swiper Landing", link: "/swiperLanding" },
+        { name: "Slider Swiper", link: "/navMenu" },
       ],
     },
   ];

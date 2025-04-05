@@ -13,6 +13,7 @@
     "@splinetool/runtime": "^1.9.80",
     "@tailwindcss/vite": "^4.0.15",
     "daisyui": "^5.0.9",
+    "gsap": "^3.12.7",
     "localforage": "^1.10.0",
     "match-sorter": "^8.0.0",
     "motion": "^12.5.0",
@@ -20,7 +21,8 @@
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.4.0",
     "sort-by": "^0.0.2",
-    "styled-components": "^6.1.16"
+    "styled-components": "^6.1.16",
+    "swiper": "^11.2.6"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
