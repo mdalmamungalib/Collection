@@ -14,6 +14,8 @@ const Navbar = () => {
       subMenu: [
         { name: "Thred Carse Card", link: "/thredCarseCard" },
         { name: "Anymeted Card", link: "/anymetedCard" },
+        { name: "Card Hover Effect", link: "/cardHoverEffect" },
+        { name: "Shop Page", link: "/shopPage" },
       ],
     },
     {

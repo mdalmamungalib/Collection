@@ -4,7 +4,8 @@ import ThredCarseCard from "../Components/3d-carse-card/Thre-carse-card";
 import AnimetedButton from "../Components/AnimetedButton/AnimetedButton.jsx";
 import AnymetedCard from "../Components/AnymetedCard/AnymetedCard.jsx";
 import SwiperLanding from "../Components/SwiperLanding/SwiperLanding.jsx";
-import NavMenu from "../Components/NavMenu/NavMenu.jsx";
+import CardHoverEffect from "../Components/CardHoverEffect/CardHoverEffect.jsx";
+import ShopPage from "../Components/ShopPage/ShopPage.jsx";
 
 export const router = createBrowserRouter([
   {
@@ -28,8 +29,12 @@ export const router = createBrowserRouter([
         element: <SwiperLanding />,
       },
       {
-        path: "/navMenu",
-        element: <NavMenu />,
+        path: "/cardHoverEffect",
+        element: <CardHoverEffect />,
+      },
+      {
+        path: "/shopPage",
+        element: <ShopPage />,
       },
     ],
   },
